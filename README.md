@@ -80,4 +80,5 @@ Made with ❤ by Shahen Tokhalyan
 ## Walkthrough Video: 
 https://drive.google.com/file/d/1wPELKSlItVT4zVxX5swFGtsTqrRD3A9R/view?usp=sharing
 
+## Screenshot
 ![Screenshot](./src/images/screenshot.png)
